@@ -1,8 +1,10 @@
-### 워크북 캡쳐
+### 워크북 캡쳐 
 
+유리 -> 에반
+![1주차.png](../../../../%EC%9B%8C%ED%81%AC%EB%B6%81%20%EB%A6%AC%EB%B7%B0/1%EC%A3%BC%EC%B0%A8.png)
 
 ### 워크북 리뷰
-
+트랜잭션의 4가지 특징에 대해서 잘 정리하였고 COMMIT이랑 ROLLBACK을 딱 대비시켜서 정리해 주시니까 두 개념 차이가 명확하게 잘 보여요!
 
 ### 미션
 1. INSERT INTO review (member_id, store_id, score, content, created_at, updated_at)
