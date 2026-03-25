@@ -1,7 +1,7 @@
 ### 워크북 캡쳐 
 유리->에반
 
-![0주차.png](../../../../%EC%9B%8C%ED%81%AC%EB%B6%81%20%EB%A6%AC%EB%B7%B0/0%EC%A3%BC%EC%B0%A8.png)
+![0주차.png](0%EC%A3%BC%EC%B0%A8.png)
 
 ### 워크북 리뷰
 
@@ -13,7 +13,7 @@
 </aside>
 
 ### 미션 기록
-![erd.png](../../../../%EC%9B%8C%ED%81%AC%EB%B6%81%20%EB%A6%AC%EB%B7%B0/erd.png)
+![UMC 10th (2).png](UMC%2010th%20%282%29.png)
 
 ### **1. 사용자 중심의 확장형 설계**
 
